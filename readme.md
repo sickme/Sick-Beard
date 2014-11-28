@@ -1,12 +1,9 @@
-# - 
-# This fork is no longer maintained, and will be deleted entirely soon (some time in December 2014) - without further notification.
-# Any interested parties are encouraged to fork before then.
-# -
-
+This is a fork of Sickbear that was origonally forked by Briky. It adds better support for torrents, including the ability to add custom RSS feeds (something similar forks of Sickbeard are missing). 
 
 # Sickbeard for Torrents
 
-This is a fork of the incredible [Sick Beard](https://github.com/midgetspy/Sick-Beard), with some additions regarding torrent support and some other areas.  
+This is a fork of the incredible [Sick Beard](https://github.com/midgetspy/Sick-Beard), with some additions regarding torrent support and some other areas.
+
 Specifically it includes
 * Integrated torrent client (provided python-libtorrent is available).  Enable it by selecting Config -> Search Settings -> Torrent Method -> Integrated.  [See here for more info](http://brickybox.com/2013/05/09/sickbeard-with-integrated-torrent-client).
 * Support for Custom RSS Torrent feeds.  [See here for more info](http://brickybox.com/2013/04/24/sickbeard-manual-rss-custom-torrent-providers).
