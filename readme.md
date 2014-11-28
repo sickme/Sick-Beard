@@ -1,4 +1,4 @@
-This is a fork of Sickbear that was origonally forked by Briky. It adds better support for torrents, including the ability to add custom RSS feeds (something similar forks of Sickbeard are missing). 
+This is a fork of Sickbear that was origonally forked by Briky. It adds better support for torrents, including the ability to add custom RSS feeds (something similar forks of Sickbeard are missing).
 
 # Sickbeard for Torrents
 
